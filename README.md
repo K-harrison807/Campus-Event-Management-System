@@ -1,4 +1,5 @@
 # Campus-Event-Management-System(Java Console App)
+## 📺 [Click Here to Download and Watch the System Functionality Demo Video](https://github.com/K-harrison807/Campus-Event-Management-System/releases/download/v1.0.0/PRO631_Assignment_System.Functonality.mp4)
 
 Overview
 
