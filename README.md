@@ -26,7 +26,7 @@ The system simulates real-world event registration by supporting participant lim
 ![Registered Participants](JavaScreenShots/registered%particinats%10.png)
 
 ### View Events
-![View Events](JavaScreenShots/studentRegisted%5.png)
+![View Events](JavaScreenShots/https://github.com/K-harrison807/Campus-Event-Management-System/blob/main/JavaScreenShots/studentRegisted%205.png)
 
 
 ## Features
