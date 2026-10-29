@@ -17,7 +17,7 @@ The system simulates real-world event registration by supporting participant lim
 ![Staff menu](https://github.com/K-harrison807/Campus-Event-Management-System/blob/main/JavaScreenShots/create%201.png)
 
 ### Event Registration
-![Event Registration](JavaScreenShots/studentRegisted%205.png)
+![Event Registration](https://github.com/K-harrison807/Campus-Event-Management-System/blob/main/JavaScreenShots/studentRegisted%205.png)
 
 ### Waitlist
 ![Waitlist](https://github.com/K-harrison807/Campus-Event-Management-System/blob/main/JavaScreenShots/waitlist%2011.png)
