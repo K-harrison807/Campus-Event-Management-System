@@ -1,10 +1,6 @@
 # Campus-Event-Management-System
 # Campus Event Management System (Java Console Application)
 
-## System Functionality Demo
-
-[**Click here to download and watch the system functionality demo video**](https://github.com/K-harrison807/Campus-Event-Management-System/releases/download/v1.0.0/PRO631_Assignment_System.Functonality.mp4)
-
 ## Overview
 
 The Campus Event Management System is a Java console-based application developed as part of an academic assignment. It allows staff and students to manage campus events and event registrations through role-based access.
@@ -24,6 +20,10 @@ The system simulates real-world event registration by supporting participant lim
 
 ### Cancel Events
 ![View Events](https://github.com/K-harrison807/Campus-Event-Management-System/blob/main/JavaScreenShots/cancel%20event%203.png)
+
+## System Functionality Demo
+
+[**Click here to download and watch the system functionality demo video**](https://github.com/K-harrison807/Campus-Event-Management-System/releases/download/v1.0.0/PRO631_Assignment_System.Functonality.mp4)
 
 
 ## Features
