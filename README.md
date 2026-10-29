@@ -5,13 +5,29 @@
 
 [**Click here to download and watch the system functionality demo video**](https://github.com/K-harrison807/Campus-Event-Management-System/releases/download/v1.0.0/PRO631_Assignment_System.Functonality.mp4)
 
-##ScreenShots(Checkout more in the screenshot folder)
-
 ## Overview
 
 The Campus Event Management System is a Java console-based application developed as part of an academic assignment. It allows staff and students to manage campus events and event registrations through role-based access.
 
 The system simulates real-world event registration by supporting participant limits, waitlists, automatic promotion from waitlists, event searching and sorting, and file-based data storage.
+
+## Screenshots (Check out more in the screenShot folder)
+
+## Create Event
+![Staff menu](JavaScreenShots/create%1.png)
+
+### Event Registration
+![Event Registration](JavaScreenShots/studentRegisted%205.png)
+
+### Waitlist
+![Waitlist](JavaScreenShots/waitlist%11.png)
+
+### Registered Participants
+![Registered Participants](JavaScreenShots/registered%particinats%10.png)
+
+### View Events
+![View Events](JavaScreenShots/studentRegisted%5.png)
+
 
 ## Features
 
