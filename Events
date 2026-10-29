@@ -1,0 +1,5 @@
+ID= 3 | Name= TradeScore | Date= 2025-08-12 | Time= 12:10 | Location= pk | MaxParticipants= 1 | Registrations= [] | WaitList= []
+ID= 1 | Name= ColorFriday | Date= 2025-10-17 | Time= 12:00 | Location= CP | MaxParticipants= 1 | Registrations= [23949049] | WaitList= [67847394]
+ID= 5 | Name= MathBootCamp | Date= 2026-04-24 | Time= 13:18 | Location= CampsBay | MaxParticipants= 3 | Registrations= [402413009, 2929494, 5959504] | WaitList= []
+ID= 4 | Name= BookDay | Date= 2026-05-15 | Time= 10:00 | Location= Library | MaxParticipants= 3 | Registrations= [] | WaitList= []
+ID= 2 | Name= AllSubs | Date= 2027-08-10 | Time= 13:00 | Location= Zitha | MaxParticipants= 2 | Registrations= [] | WaitList= []
